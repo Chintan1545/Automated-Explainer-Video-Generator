@@ -29,7 +29,8 @@ A simple Python app that converts text scripts into explainer videos with text-t
 
 ```
 
-.
+Automated-Explainer-Video-Generator
+|
 ├── app.py                  # Streamlit app
 ├── video_generator.py      # Video generation logic
 ├── temp/                   # Temporary folder for audio/images
@@ -45,8 +46,8 @@ A simple Python app that converts text scripts into explainer videos with text-t
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Chintan1545/explainer-video-generator.git
-cd explainer-video-generator
+git clone https://github.com/Chintan1545/Automated-Explainer-Video-Generator.git
+cd Automated-Explainer-Video-Generator
 ````
 
 2. **Create a virtual environment (optional but recommended):**
@@ -125,3 +126,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 👨‍💻 Author
 
 Chintan Dabhi
+
